@@ -1,2 +1,2 @@
-# Bullet Screen File of Three Kindoms
+# Bullet Subtitiles File of Three Kindoms
  
